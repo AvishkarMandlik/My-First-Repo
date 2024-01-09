@@ -7,3 +7,8 @@
 `git push`  
 `git pull`  
 `git status` 
+`git remote`
+`git merge`
+`git rm`
+`git init`
+`git config`
